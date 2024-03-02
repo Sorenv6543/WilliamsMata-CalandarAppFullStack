@@ -1,0 +1,5 @@
+{
+    "workbench.quickOpen.closeOnFocusLost": false,
+    "workbench.commandPalette.preserveInput": true,
+    "workbench.commandPalette.experimental.suggestCommands": true
+}
